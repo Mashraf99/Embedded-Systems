@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Timer_Task2", "Timer_Task2_6_1.cproj", "{CED6DD95-D9EE-49CE-92AD-0769853161F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CED6DD95-D9EE-49CE-92AD-0769853161F4}.Debug|AVR.ActiveCfg = Debug|AVR
+		{CED6DD95-D9EE-49CE-92AD-0769853161F4}.Debug|AVR.Build.0 = Debug|AVR
+		{CED6DD95-D9EE-49CE-92AD-0769853161F4}.Release|AVR.ActiveCfg = Release|AVR
+		{CED6DD95-D9EE-49CE-92AD-0769853161F4}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
